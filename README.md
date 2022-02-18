@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hbysey
+- 👀 I’m interested in IoT.
+- 🌱 I’m currently learning c langusge, python and raspberrypi.
+- 💞️
